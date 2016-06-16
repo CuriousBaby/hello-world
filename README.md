@@ -1,2 +1,2 @@
 # hello-world
-The first step of great code beauty
+The first step of great beauty
